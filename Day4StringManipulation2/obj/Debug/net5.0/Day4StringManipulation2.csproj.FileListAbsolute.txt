@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.exe
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.deps.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\ref\Day4StringManipulation2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\bin\Debug\net5.0\Day4StringManipulation2.pdb
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\ref\Day4StringManipulation2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.pdb
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4StringManipulation2\obj\Debug\net5.0\Day4StringManipulation2.genruntimeconfig.cache

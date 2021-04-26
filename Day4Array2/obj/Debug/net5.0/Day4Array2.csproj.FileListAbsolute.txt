@@ -1,0 +1,16 @@
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.exe
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.deps.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.runtimeconfig.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.runtimeconfig.dev.json
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\ref\Day4Array2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\bin\Debug\net5.0\Day4Array2.pdb
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.csprojAssemblyReference.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.AssemblyInfoInputs.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.AssemblyInfo.cs
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.csproj.CoreCompileInputs.cache
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\ref\Day4Array2.dll
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.pdb
+C:\Users\Favour .O\Desktop\Day4 Assessment\Day4Array2\obj\Debug\net5.0\Day4Array2.genruntimeconfig.cache

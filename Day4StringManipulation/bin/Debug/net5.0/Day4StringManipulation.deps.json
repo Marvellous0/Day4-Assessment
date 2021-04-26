@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day4StringManipulation/1.0.0": {
+        "runtime": {
+          "Day4StringManipulation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day4StringManipulation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
