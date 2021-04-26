@@ -9,21 +9,23 @@ namespace Day4Class
         public double _principal;
         
 
-        public Investment(double interest, double principal, double noOfYears)
+        public Investment(double principal, double noOfYears, double interest)
         {
-            _interest = interest;
+            //_interest = interest;
             _principal = principal;
             _noOfYears = noOfYears;
+            _interest = interest;
         } 
 
-
-        public double Value(double interest, double prinipal, double noOfYears)
+        public double Value()
         {
-            double Interest = (1 / 10) * 100;
 
-            double interestRate = _principal * (1 + Interest) * _noOfYears;
+            double value = 0; 
+            value = _principal * (1 + _interest) * _noOfYears;
 
-            return interestRate;
+            Console.WriteLine($"Interest rate is {value}");
+            return value;
+
         }
     }
 }
